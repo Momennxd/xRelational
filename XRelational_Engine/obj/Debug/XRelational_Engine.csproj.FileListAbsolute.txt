@@ -1,0 +1,24 @@
+D:\Projects\My Projects With C#\XRelational\XRelational_Engine\bin\Debug\XRelational_Engine.dll
+D:\Projects\My Projects With C#\XRelational\XRelational_Engine\bin\Debug\XRelational_Engine.pdb
+D:\Projects\My Projects With C#\XRelational\XRelational_Engine\bin\Debug\XRelational_DataAccess.dll
+D:\Projects\My Projects With C#\XRelational\XRelational_Engine\bin\Debug\XRelational_DataAccess.pdb
+D:\Projects\My Projects With C#\XRelational\XRelational_Engine\obj\Debug\XRelational_Engine.csproj.AssemblyReference.cache
+D:\Projects\My Projects With C#\XRelational\XRelational_Engine\obj\Debug\XRelational_Engine.csproj.CoreCompileInputs.cache
+D:\Projects\My Projects With C#\XRelational\XRelational_Engine\obj\Debug\XRelational_Engine.csproj.CopyComplete
+D:\Projects\My Projects With C#\XRelational\XRelational_Engine\obj\Debug\XRelational_Engine.dll
+D:\Projects\My Projects With C#\XRelational\XRelational_Engine\obj\Debug\XRelational_Engine.pdb
+D:\Projects\My Projects With C#\XRelational\XRelational_Engine\bin\Debug\FastColoredTextBox.dll
+D:\Projects\My Projects With C#\XRelational\XRelational_Engine\bin\Debug\FastColoredTextBox.xml
+D:\Projects\My Projects With C#\XRelational\XRelational_Engine\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+D:\Projects\Dead Projects\XRelational\XRelational_Engine\obj\Debug\XRelational_Engine.csproj.AssemblyReference.cache
+D:\Projects\Dead Projects\XRelational\XRelational_Engine\obj\Debug\XRelational_Engine.csproj.CoreCompileInputs.cache
+D:\Projects\Dead Projects\XRelational\XRelational_Engine\obj\Debug\XRelational_Engine.dll
+D:\Projects\Dead Projects\XRelational\XRelational_Engine\obj\Debug\XRelational_Engine.pdb
+D:\Projects\Dead Projects\XRelational\XRelational_Engine\bin\Debug\XRelational_Engine.dll
+D:\Projects\Dead Projects\XRelational\XRelational_Engine\bin\Debug\XRelational_Engine.pdb
+D:\Projects\Dead Projects\XRelational\XRelational_Engine\bin\Debug\FastColoredTextBox.dll
+D:\Projects\Dead Projects\XRelational\XRelational_Engine\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+D:\Projects\Dead Projects\XRelational\XRelational_Engine\bin\Debug\XRelational_DataAccess.dll
+D:\Projects\Dead Projects\XRelational\XRelational_Engine\bin\Debug\XRelational_DataAccess.pdb
+D:\Projects\Dead Projects\XRelational\XRelational_Engine\bin\Debug\FastColoredTextBox.xml
+D:\Projects\Dead Projects\XRelational\XRelational_Engine\obj\Debug\XRelational_Engine.csproj.CopyComplete

@@ -1,0 +1,18 @@
+D:\Projects\My Projects With C#\XRelational\XRelational_DataAccess\bin\Debug\XRelational_DataAccess.dll
+D:\Projects\My Projects With C#\XRelational\XRelational_DataAccess\bin\Debug\XRelational_DataAccess.pdb
+D:\Projects\My Projects With C#\XRelational\XRelational_DataAccess\obj\Debug\XRelational_DataAccess.csproj.AssemblyReference.cache
+D:\Projects\My Projects With C#\XRelational\XRelational_DataAccess\obj\Debug\XRelational_DataAccess.csproj.CoreCompileInputs.cache
+D:\Projects\My Projects With C#\XRelational\XRelational_DataAccess\obj\Debug\XRelational_DataAccess.dll
+D:\Projects\My Projects With C#\XRelational\XRelational_DataAccess\obj\Debug\XRelational_DataAccess.pdb
+D:\Projects\My Projects With C#\XRelational\XRelational_DataAccess\bin\Debug\FastColoredTextBox.dll
+D:\Projects\My Projects With C#\XRelational\XRelational_DataAccess\bin\Debug\FastColoredTextBox.xml
+D:\Projects\My Projects With C#\XRelational\XRelational_DataAccess\obj\Debug\XRelational_DataAccess.csproj.CopyComplete
+D:\Projects\Dead Projects\XRelational\XRelational_DataAccess\bin\Debug\XRelational_DataAccess.dll
+D:\Projects\Dead Projects\XRelational\XRelational_DataAccess\bin\Debug\XRelational_DataAccess.pdb
+D:\Projects\Dead Projects\XRelational\XRelational_DataAccess\bin\Debug\FastColoredTextBox.dll
+D:\Projects\Dead Projects\XRelational\XRelational_DataAccess\bin\Debug\FastColoredTextBox.xml
+D:\Projects\Dead Projects\XRelational\XRelational_DataAccess\obj\Debug\XRelational_DataAccess.csproj.AssemblyReference.cache
+D:\Projects\Dead Projects\XRelational\XRelational_DataAccess\obj\Debug\XRelational_DataAccess.csproj.CoreCompileInputs.cache
+D:\Projects\Dead Projects\XRelational\XRelational_DataAccess\obj\Debug\XRelational_DataAccess.csproj.CopyComplete
+D:\Projects\Dead Projects\XRelational\XRelational_DataAccess\obj\Debug\XRelational_DataAccess.dll
+D:\Projects\Dead Projects\XRelational\XRelational_DataAccess\obj\Debug\XRelational_DataAccess.pdb
